@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^20.4.0"
+  },
+  "name": "skillreactor_project",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njoroge-s/skillreactor_projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njoroge-s/skillreactor_projects/issues"
+  },
+  "homepage": "https://github.com/njoroge-s/skillreactor_projects#readme"
+}
